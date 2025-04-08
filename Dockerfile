@@ -28,4 +28,4 @@ ENV PYTHONDONTWRITEBYTECODE=1
 USER botuser
 
 # Run the bot
-CMD ["python", "main.py"] 
+CMD ["python", "main.py"]
